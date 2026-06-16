@@ -12,7 +12,7 @@ The pipeline dynamically ingests multiple CSV files from GitHub using Azure Data
 
 The following architecture illustrates the complete end-to-end data engineering pipeline implemented in this project.
 
-![Architecture](Architecture/architecture.drawio.png)
+![Architecture](Architecture/architecture.png)
 
 ## ✨ Project Highlights
 
