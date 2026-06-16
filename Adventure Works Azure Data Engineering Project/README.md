@@ -138,8 +138,6 @@ AdventureWorks-Azure-Data-Engineering/
 
 ## Azure Data Factory
 
-![ADF Pipeline](ADF/screenshots/01_dynamic_pipeline_overview.png)
-
 - Dynamic Pipeline
 - Lookup Activity
 - ForEach Activity
